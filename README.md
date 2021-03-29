@@ -4,6 +4,12 @@ A test support library for [spring-retry](https://github.com/spring-projects/spr
 
 # How to use
 
+0. clone this project and install jar (it will be removed soon.)
+    ```bash
+    $ git clone git@github.com:yoghurt1131/spring-retry-test-extension.git
+    $ cd spring-retry-test-extension
+    $ mvn install
+    ```
 1. add spring-retry-text-extension to test scope dependency in pom.xml
     ```xml
     <dependency>
