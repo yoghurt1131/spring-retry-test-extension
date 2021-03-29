@@ -1,7 +1,6 @@
 # Spring Retry Test Extension
 
-A test support library for spring-retry.
-
+A test support library for [spring-retry](https://github.com/spring-projects/spring-retry).
 
 # How to use
 
@@ -38,5 +37,7 @@ A test support library for spring-retry.
         }
     }
     ```
+ 
+ # Support and Limitation
 
 
