@@ -44,6 +44,11 @@ A test support library for [spring-retry](https://github.com/spring-projects/spr
     }
     ```
  
- # Support and Limitation
+ # Support OSS
 
+- support Spring Framework 5.3.1
+- support Spring Retry 1.3.1
 
+# Limitation
+
+- [Mockito's](https://github.com/mockito/mockito) Spy doesn't work with `RetrySupport` as expected
